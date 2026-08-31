@@ -75,6 +75,8 @@ focus: [Modern Web Apps, Clean Architecture, UI/UX Design, Open Source]
 
 ---
 
-<div align=center>
+<div align="center">
+  <img src="https://media1.tenor.com/m/BaOyUg5NfewAAAAC/low-cortisol-miku-nakano.gif" width="300" alt="Low Cortisol Miku Nakano" />
+  <br/><br/>
   <sub>⭐️ <i>Designed for <b>Sakuos</b>. Thank you for visiting!</i> ⭐️</sub>
 </div>
