@@ -1,8 +1,12 @@
-<div align=center>
+<div align="center">
+
+  <!-- Header GIF -->
+  <img src="https://media1.tenor.com/m/NDgo21_eaHEAAAAC/miku-the-quintessential-quintuplets.gif" width="340" alt="Miku Nakano Header" />
+  <br/>
 
   <!-- Header Typing Effect -->
-  <a href=https://github.com/Sakuos>
-    <img src=https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vCenter=true&width=550&lines=Hi+there,+I'm+Sakuos!+%F0%9F%91%8B;Software+Developer+%26+Tech+Enthusiast;Building+clean+%26+scalable+digital+solutions;Welcome+to+my+GitHub+Profile!+%E2%9C%A8 alt=Typing SVG />
+  <a href="https://github.com/Sakuos">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vCenter=true&width=550&lines=Hi+there,+I'm+Sakuos!+%F0%9F%91%8B;Software+Developer+%26+Tech+Enthusiast;Building+clean+%26+scalable+digital+solutions;Welcome+to+my+GitHub+Profile!+%E2%9C%A8" alt="Typing SVG" />
   </a>
 
   <!-- Profile Views Counter -->
